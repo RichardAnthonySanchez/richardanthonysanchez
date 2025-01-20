@@ -28,3 +28,10 @@ I have background in art, music, and entrepreneurship. My journey has taken me f
 - The first artist I produced went viral. I'm yet to have that success again.
 - I worked on set with Serena Williams. No prior experience, just luck.
 - I toured at 16 with my high school death metal band.
+
+## Passion projects
+
+- Freelancing composing, writing, and music production. [Listen here!](https://open.spotify.com/playlist/2t6FZ39dIcjgVFNTYaJc6x?si=9f6c8440b74345ac)
+- Writing on my personal blog. If you're into indie hacking, wellbeing, and creativity. [Take a look.](https://blog.tonysanchez.dev/)
+- Launched a few MVPs (occult book summaries, a tarot journal, and an online art gallary)
+- Currently focused on refinding my resume. I'll be back to building soon though!
