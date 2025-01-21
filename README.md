@@ -31,7 +31,7 @@ I have background in art, music, and entrepreneurship. My journey has taken me f
 
 ## Passion projects
 
-- Freelancing composing, writing, and music production. [Listen here!](https://open.spotify.com/playlist/2t6FZ39dIcjgVFNTYaJc6x?si=9f6c8440b74345ac)
-- Writing on my personal blog. If you're into indie hacking, wellbeing, and creativity. [Take a look.](https://blog.tonysanchez.dev/)
-- Launched a few MVPs (occult book summaries, a tarot journal, and an online art gallary)
-- Currently focused on refinding my resume. I'll be back to building soon though!
+- I freelance in composing, writing, and music production. [Listen to my work here!](https://open.spotify.com/playlist/2t6FZ39dIcjgVFNTYaJc6x?si=9f6c8440b74345ac)
+- Check out my personal blog for content on indie hacking, wellbeing, and creativity. [Explore it here.](https://blog.tonysanchez.dev/)
+- Recently launched several MVPs including occult book summaries, a tarot journal, and an online art gallery.
+- Currently focusing on refining my resume, but will soon be back to building new projects!
