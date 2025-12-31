@@ -1,60 +1,72 @@
 # Hey, I'm Tony 👋
 
-I build **custom SEO tools** and **interactive client experiences** for marketing agencies. My focus is on creating lightweight, data-driven utilities that automate workflows and deliver measurable value.
+I build custom SEO tools and client experiences for marketing agencies. Think: the internal utilities that make your team's life easier and the interactive deliverables that make your clients say "whoa, this is cool."
 
-## What I Do
+**TypeScript/JavaScript specialist** who actually enjoys solving the weird, specific problems that agencies deal with daily.
 
-I specialize in developing internal tools that help agencies scale their operations without scaling headcount. Think semantic analysis for internal linking, no-code data visualization widgets, and content migration utilities—all built with **TypeScript** and designed for real-world agency use cases.
+## What I Build For Agencies
 
-**Core competencies:**
-- Building client-side SEO utilities and analysis tools
-- Creating interactive data visualizations for non-technical stakeholders  
-- Automating repetitive SEO/content workflows
-- Developing embeddable widgets and tools for client deliverables
+The stuff that either saves your team hours of manual work or makes clients genuinely excited in presentations:
+
+**Internal SEO Tools** – Semantic analysis for internal linking, content gap finders, automated audits that actually make sense  
+**Client Deliverables** – Interactive dashboards and embeddable widgets your clients will want to show their boss  
+**Workflow Automation** – All those repetitive tasks that make everyone groan  
+**Migration Tools** – Moving content between platforms without losing your mind (or SEO value)
+
+Everything's built to be lightweight and maintainable. No "well actually, you need to spin up a Kubernetes cluster" situations.
 
 ## Tech Stack
 
-- **Languages:** TypeScript, JavaScript, Python
-- **Frontend:** Vanilla JS, Web APIs, DOM manipulation
-- **Tools & Libraries:** Node.js, various data processing libraries
-- **Focus Areas:** Performance optimization, semantic analysis, data transformation
+- **Primary:** TypeScript, NextJS, Node.js, and TanstackStart
+- **Deployment:** Static sites, client-side applications, Railway, Digital Ocean VPS
 
-## Featured Projects
+## Recent Projects
 
-### 🔗 [Open Internal Link Juicer](#)
-A semantic relevance-based tool for discovering internal linking opportunities. Helps SEO teams identify high-value link placements without manual content analysis.
+### [Open Internal Link Juicer](https://github.com/yourusername/link-juicer)
+Semantic similarity engine for finding internal link opportunities. Uses TF-IDF and cosine similarity to surface relevant content connections without the tedious manual analysis.
 
-### 📊 [Easy Chart Widget](#)  
-Turn JSON data into embeddable charts with zero code. Built for agencies that need quick, professional data visualizations for client reports and dashboards.
+Typical content audit went from ~15 hours of someone highlighting spreadsheet cells to about 4 hours of actually strategic work.
 
-### 🔄 [WP2GHOST Migration Tool](#)
-Enhanced fork of jonhoo/wp2ghost. Converts WordPress XML exports to Ghost JSON imports while preserving content integrity and SEO metadata.
+**Built with:** TypeScript, Web Workers for processing, IndexedDB/Local Storage for caching
 
-## Currently Working On / Learning
+### [Easy Chart Widget](https://github.com/yourusername/chart-widget)
+Zero-config tool: JSON goes in, embeddable charts come out. Made for client success teams who need to create visualizations but (rightfully) don't want to learn Shadcn.
 
-### 🤖 Agentic Assistant Workflows
-Exploring how AI assistants can be integrated into development workflows and client-facing tools. Investigating prompt engineering, tool use patterns, and building applications that leverage LLM capabilities for SEO and content automation.
+Turns out when you make it easy for non-technical people to create beautiful charts, they actually use it. Wild, right?
 
-### 🎵 Digital Signal Processing (DSP)
-Diving into audio programming and DSP fundamentals using:
-- **JUCE** - C++ framework for audio applications
-- **Faust** - Functional programming language for DSP
-- **HISE** - Scriptable audio plugin development environment
+**Built with:** TypeScript, Chart.js, inline SVG exports
 
-Learning how to build audio effects, synthesizers, and sample-based instruments. It's a complete departure from web dev, but the mathematical and systematic thinking overlaps nicely with building data processing tools.
+### [WP2GHOST Migration Tool](https://github.com/yourusername/wp2ghost)
+Enhanced fork of a WordPress → Ghost migration tool. Handles the annoying edge cases: custom fields, SEO metadata, content that's formatted weird.
 
-## Background
+Because migrations should be boring (in a good way).
 
-I come from a creative background—toured as a guitarist, produced bands, launched a few businesses. That experience taught me how to translate technical concepts into something that resonates with non-technical people, which is invaluable when building tools for agency clients.
+**Built with:** TypeScript, XML/JSON parsing, validation pipelines
 
-## Let's Connect
+## Why This Works For Agency Life
 
-- **Website:** [tonysanchez.dev](https://tonysanchez.dev)
-- **Blog:** [blog.tonysanchez.dev](https://blog.tonysanchez.dev/)  
-- **Email:** tony@tonysanchez.dev
+**I ship fast** – Most tools go from "hey, wouldn't it be cool if..." to production in 2-3 weeks
 
-If you're building SEO tools, working on agency automation, or just want to talk about TypeScript architecture for client-side utilities, let's chat.
+**Low maintenance burden** – Client-side first approach means you're not paying for servers to keep my stuff running. Also means I'm not waking you up at 2am because something crashed.
 
----
+**Actually documented** – README files, inline comments, handoff docs. I write code like someone else will need to touch it later (because they will).
 
-💡 *Open to collaboration on projects that solve real problems for agencies and their clients.*
+**I get the agency model** – Billable hours matter. Client communication matters. Sometimes "good enough and shipped" beats "perfect and never finished."
+
+**TypeScript everywhere** – Type safety = catching dumb bugs before they become "hey Tony, the client's dashboard is broken" Slack messages
+
+## What I'm Exploring Now
+
+Playing with Agent Assisted workflows (Claude, Cursor, Antigravity) for mockups analysis and automated work. Figuring out where LLMs actually add value vs. where they're just expensive API calls.
+
+Also tinkering with audio DSP stuff (JUCE, Faust) as a side hobby—completely unrelated to SEO work, but fun to mess with sound synthesis and signal processing.
+
+## Let's Talk
+
+📧 tony@tonysanchez.dev  
+🌐 [tonysanchez.dev](https://tonysanchez.dev) – personal site  
+📝 [blog.tonysanchez.dev](https://blog.tonysanchez.dev) – where I write about code and occasionally other stuff
+
+Open to contract work, full-time roles, or just chatting about interesting problems you're trying to solve. Remote preferred, based in Eastern Time.
+
+If you're dealing with a weird SEO automation challenge or need someone who can build client-facing tools that don't look like they came from 2008, hit me up.
