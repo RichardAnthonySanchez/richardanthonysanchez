@@ -45,7 +45,7 @@ Because migrations should be boring (in a good way).
 
 **Built with:** TypeScript, XML/JSON parsing, validation pipelines
 
-## Why This Works For Agency Life
+## How I Do It
 
 **I ship fast** – Most tools go from "hey, wouldn't it be cool if..." to production in 2-3 weeks
 
