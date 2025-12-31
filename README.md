@@ -2,6 +2,8 @@
 
 I build custom SEO tools and client experiences for marketing agencies. Think: the internal utilities that make your team's life easier and the interactive deliverables that make your clients say "whoa, this is cool."
 
+![Smooooth animation](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzIzamVkZXh6andsZ2poaW9vdWFqaTM5bzE4OGlpYzRsZnYxcGdieCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Wspz88a8ZhrFGuZoi8/giphy.gif)
+
 **TypeScript/JavaScript specialist** who actually enjoys solving the weird, specific problems that agencies deal with daily.
 
 ## What I Build For Agencies
@@ -22,21 +24,21 @@ Everything's built to be lightweight and maintainable. No "well actually, you ne
 
 ## Recent Projects
 
-### [Open Internal Link Juicer](https://github.com/yourusername/link-juicer)
+### [Open Internal Link Juicer](https://github.com/RichardAnthonySanchez/open-internal-link-juicer)
 Semantic similarity engine for finding internal link opportunities. Uses TF-IDF and cosine similarity to surface relevant content connections without the tedious manual analysis.
 
 Typical content audit went from ~15 hours of someone highlighting spreadsheet cells to about 4 hours of actually strategic work.
 
 **Built with:** TypeScript, Web Workers for processing, IndexedDB/Local Storage for caching
 
-### [Easy Chart Widget](https://github.com/yourusername/chart-widget)
+### [Easy Chart Widget](https://github.com/RichardAnthonySanchez/easy-chart-widget)
 Zero-config tool: JSON goes in, embeddable charts come out. Made for client success teams who need to create visualizations but (rightfully) don't want to learn Shadcn.
 
 Turns out when you make it easy for non-technical people to create beautiful charts, they actually use it. Wild, right?
 
 **Built with:** TypeScript, Chart.js, inline SVG exports
 
-### [WP2GHOST Migration Tool](https://github.com/yourusername/wp2ghost)
+### [WP2GHOST Migration Tool](https://github.com/RichardAnthonySanchez/wp2ghost)
 Enhanced fork of a WordPress → Ghost migration tool. Handles the annoying edge cases: custom fields, SEO metadata, content that's formatted weird.
 
 Because migrations should be boring (in a good way).
